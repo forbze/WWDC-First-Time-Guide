@@ -1,6 +1,6 @@
 #WWDC First Timer Guide#
 
-Congrats! You've got a WWDC ticket. Every year the list of developers wanting to attend the conference yets longer and longer, and the ballot gets harder to succeed in.
+Congrats! You've got a WWDC ticket. Every year the list of developers wanting to attend the conference gets longer and longer, and the ballot gets harder to succeed in.
 
 Last year I read <a href="http://www.twitter.com/AndyDrizen">@AndyDrizen</a>'s guide <a href="http://odecee.com.au/making-the-most-of-wwdc-2015/">here</a> and decided I'd adapt it and add my own point of view on the conference.
 
@@ -10,7 +10,7 @@ The conference is by far the biggest thing I've ever attended from a tech perspe
 It is by far the best networking and learning opportunity you will get as an iOS developer, so please try to make the most out of the opportunity.
 
 ## Pre-Conf ##
-If you can, try to arrive on Saturday (or before if you like) as arriving on Sunday can lead to a very very busy day! And results in a very tiring Monday, especially if like alot of attendees you are fighting jet-lag. My advice - make sure you get out in the sun at lunch to wake you up, the dark conference center can put you to sleep, even during the best presentations.
+If you can, try to arrive on Saturday (or before if you like) as arriving on Sunday can lead to a very very busy day! And results in a very tiring Monday, especially if like a lot of attendees you are fighting jet-lag. My advice - make sure you get out in the sun at lunch to wake you up, the dark conference center can put you to sleep, even during the best presentations.
 
 ### Registration ###
 Registration can be done at Moscone Center West and usually opens on Sunday at 9am, and closes at 7pm. If you miss this, you’ll need to register on Monday morning, which means you might miss the start of the Keynote. This year's keynote is at Bill Graham Civic Auditorium, so don't leave it to Monday!
@@ -28,7 +28,7 @@ Last year, we decided to get there early and arrive at 4:30am, and the queue was
 
 The challenge with jetlag is that by 2-3pm you are really starting to feel it, and being in the dark conference hall is challenging!
 
-This year Day 1 has been relocated to the Bill Graham Civic Auditorium and can hold 7000 capacity which means there will likely be no need for overflow rooms. Queuing may be optional (insert swift joke here).
+This year Day 1 has been relocated to the Bill Graham Civic Auditorium and can hold a capacity of 7000 which means there will likely be no need for overflow rooms. Queuing may be optional (insert swift joke here).
 
 Last year, Monday consisted of three events:
 <ul>
@@ -52,9 +52,9 @@ There are over 100 sessions over the 5 days, and they run in parallel streams, s
 Some of the sessions I made a last minute decision to attend last year were some of the most informative, so perhaps chose a couple of sessions which you normally wouldn't be interested in - you may be suprised. If you find 10 minutes into a session you are already losing interest, don't be afraid to walk out and go to another.
 
 ### The Labs###
-I cannot underestimate the value the labs provide. Apple is a rediculously secretive company, and having the lab engineers available to answer your questions is fantastic. Take your project along and ask them any questions you have.
+I cannot underestimate the value the labs provide. Apple is a ridiculously secretive company, and having the lab engineers available to answer your questions is fantastic. Take your project along and ask them any questions you have.
 
-Having access to the Apple UX team to review your app and give you a list of improvements is also worth the price of the ticket! These sessions sell out pretty quickly - Last year one ofmy friends got to Moscone at 6am just to get his name on the list.
+Having access to the Apple UX team to review your app and give you a list of improvements is also worth the price of the ticket! These sessions sell out pretty quickly - Last year one of my friends got to Moscone at 6am just to get his name on the list.
 
 ###Special events###
 Last year Apple organised several extra talks during the lunch break, and also at the end of day 3. These included a 'women in tech' get together, a talk by Debbie the creator of Goldie Blox, and also an animator from Pixar. These are quite entertaining and also inspiring, and are a good distraction whilst you eat your lunch.
@@ -62,13 +62,13 @@ Last year Apple organised several extra talks during the lunch break, and also a
 
 ###Other Things to Do###
 ##Pilgrimage to the Mothership##
-Last year, we arrived at 11am from a 14 hour flight and by 1pm we had checked into our hotel, registered at Moscone, hired a car, and we were on our way for the 45-60 minute journey to 1 infinite loop. 
+Last year, we arrived at 11am from a 14-hour flight and by 1pm we had checked into our hotel, registered at Moscone, hired a car, and we were on our way for the 45-60 minute journey to 1 infinite loop. 
 
-Apple HQ is the home of the original Apple store, and you can pick up t-shirts and momentos that you can't find anywhere else. Make sure you get a photo with the 1 infinite loop sign.
+Apple HQ is the home of the original Apple store, and you can pick up t-shirts and mementos that you can't find anywhere else. Make sure you get a photo with the 1 infinite loop sign.
 
 ##WWDC parties##
 
-There are a lot of parties during the week hosted by some of SF & The Valley's biggest companies. The party by Twiter / Fabric which was on the Monday night in 2015 is normally one of the biggest. 
+There are a lot of parties during the week hosted by some of SF & The Valley's biggest companies. The party by Twitter / Fabric which was on the Monday night in 2015 is normally one of the biggest. 
 
 Every night there is something different, and I also recommend these from a networking perspective... There's an awesome array of startups and companies willing to host, and they normally have awesome free swag, food & drinks.
 
@@ -82,7 +82,7 @@ Some of these events are extremely popular and sell out really quickly. Make sur
 <li>See the Sea lions at Pier 39.
 <li>Visit Alcatraz – Not free, but you can get a tour of this prison island. Be careful which tour you choose, as some of them just circle around the island, and don’t actually moor there. Book weeks before the conference!
 <li>Climb Coit Tower for stunning views of the city.
-<li>Eat a burger at In and Out - Make sure to order of the secret Primal menu... 
+<li>Eat a burger at In and Out - Make sure to order off the secret Primal menu... 
 </ul>
 
 See some famous streets:
