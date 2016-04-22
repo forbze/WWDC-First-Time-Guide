@@ -76,15 +76,15 @@ Last year, we arrived at 11am from a 14-hour flight and by 1pm we had checked in
 
 Apple HQ is the home of the original Apple store, and you can pick up t-shirts and mementos that you can't find anywhere else. Make sure you get a photo with the 1 infinite loop sign.
 
-##WWDC parties##
+###WWDC parties###
 
-There are a lot of parties during the week hosted by some of SF & The Valley's biggest companies. The party by Twitter / Fabric which was on the Monday night in 2015 is normally one of the biggest.
+There are a lot of parties during the week hosted by some of SF & The Valley's biggest companies. The party by Twitter / Fabric which was on the Monday night in 2015 is normally one of the biggest. 
 
 Every night there is something different, and I also recommend these from a networking perspective... There's an awesome array of startups and companies willing to host, and they normally have awesome free swag, food & drinks.
 
 Some of these events are extremely popular and sell out really quickly. Make sure you register quickly (normally on EventBrite). There's also an app called 'WWDC Parties' which is great for finding these events.
 
-## Other things to do in town##
+### Other things to do in town###
 <ul>
 <li>Get breakfast at the Brainwash Cafe.
 <li>Walk or cycle the Golden Gate Bridge.
@@ -92,7 +92,7 @@ Some of these events are extremely popular and sell out really quickly. Make sur
 <li>See the Sea lions at Pier 39.
 <li>Visit Alcatraz – Not free, but you can get a tour of this prison island. Be careful which tour you choose, as some of them just circle around the island, and don’t actually moor there. Book weeks before the conference!
 <li>Climb Coit Tower for stunning views of the city.
-<li>Eat a burger at In and Out - Make sure to order off the secret Primal menu...
+<li>Eat a burger at In and Out - Make sure to order off the secret Primal menu... 
 </ul>
 
 See some famous streets:
