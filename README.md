@@ -60,13 +60,13 @@ Having access to the Apple UX team to review your app and give you a list of imp
 Last year Apple organised several extra talks during the lunch break, and also at the end of day 3. These included a 'women in tech' get together, a talk by Debbie the creator of Goldie Blox, and also an animator from Pixar. These are quite entertaining and also inspiring, and are a good distraction whilst you eat your lunch.
 
 
-###Other Things to Do###
-##Pilgrimage to the Mothership##
+##Other Things to Do##
+###Pilgrimage to the Mothership###
 Last year, we arrived at 11am from a 14-hour flight and by 1pm we had checked into our hotel, registered at Moscone, hired a car, and we were on our way for the 45-60 minute journey to 1 infinite loop. 
 
 Apple HQ is the home of the original Apple store, and you can pick up t-shirts and mementos that you can't find anywhere else. Make sure you get a photo with the 1 infinite loop sign.
 
-##WWDC parties##
+###WWDC parties###
 
 There are a lot of parties during the week hosted by some of SF & The Valley's biggest companies. The party by Twitter / Fabric which was on the Monday night in 2015 is normally one of the biggest. 
 
@@ -74,7 +74,7 @@ Every night there is something different, and I also recommend these from a netw
 
 Some of these events are extremely popular and sell out really quickly. Make sure you register quickly (normally on EventBrite). There's also an app called 'WWDC Parties' which is great for finding these events.
 
-## Other things to do in town##
+### Other things to do in town###
 <ul>
 <li>Get breakfast at the Brainwash Cafe.
 <li>Walk or cycle the Golden Gate Bridge.
