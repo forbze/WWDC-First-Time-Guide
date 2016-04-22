@@ -63,7 +63,7 @@ Having access to the Apple UX team to review your app and give you a list of imp
 There is also an ability here to meet particular individuals that actually wrote the APIs you may be having trouble with, and you sometimes can receive advice about undocumented workarounds for problems.  The engineers really enjoy talking to people about their work (although not their un-released work), so if you have a use case that they had not imagined they will urge you to log Radars for feature requests and bugs.  They often need the support of developers, to get features built.
 
 ###Special events###
-Last year Apple organised several extra talks during the lunch break, and also at the end of day 3. These included a 'women in tech' get together, a talk by Debbie the creator of Goldie Blox, and also an animator from Pixar. These are quite entertaining and also inspiring, and are a good distraction whilst you eat your lunch.
+Last year Apple organised several extra talks during the lunch break, and also at the end of day 3. These included a 'women in tech' get together, a talk by Debbie Sterling the creator of Goldie Blox, and also an animator from Pixar. These are quite entertaining and also inspiring, and are a good distraction whilst you eat your lunch.
 
 Pixar seem to present something each year, due to the previous relationship between Steve Jobs owning pixar.  They really do give a great presentation.  Those Pixar guys have real passion.
 
@@ -105,6 +105,12 @@ See some famous streets:
 ##Other Information##
 ###Buy a local SIM card###
 Getting a U.S. SIM card is pretty easy, and relatively cheap. Take a look at AT&T when you arrive - there's a handy booth that sells SIMs in the Westfield shopping center in Market Street.
+
+### Other things to bring ###
+* US Plug adapters (2 flat pins). Ensure it includes the earth pin hole or you won't be able to plug your laptop into it! 
+* Aussie powerboard so you can charge all your gadgets at night (iPhone, iPad, Laptop, Watch, etc)
+* A portable powerbank for your iPhone is handy to have too, you will drain your battery pretty quickly each day with taking photos, note taking, catching up on videos etc.. You don't want to get caught short.
+
 
 ###Safety###
 San Francisco is generally a safe city, and I had no issues walking around on my own. However, there are areas such as The Tenderloin which is still in the process of being cleaned up. Many areas of the city - such as areas west of 5th Street, and South of Market have lots of homeless around and many people begging, so please be sensible when roaming the city and travelling between parties at night.
