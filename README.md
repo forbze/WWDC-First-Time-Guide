@@ -106,12 +106,6 @@ See some famous streets:
 ###Buy a local SIM card###
 Getting a U.S. SIM card is pretty easy, and relatively cheap. Take a look at AT&T when you arrive - there's a handy booth that sells SIMs in the Westfield shopping center in Market Street.
 
-### Other things to bring ###
-* US Plug adapters (2 flat pins). Ensure it includes the earth pin hole or you won't be able to plug your laptop into it! 
-* Aussie powerboard so you can charge all your gadgets at night (iPhone, iPad, Laptop, Watch, etc)
-* A portable powerbank for your iPhone is handy to have too, you will drain your battery pretty quickly each day with taking photos, note taking, catching up on videos etc.. You don't want to get caught short.
-
-
 ###Safety###
 San Francisco is generally a safe city, and I had no issues walking around on my own. However, there are areas such as The Tenderloin which is still in the process of being cleaned up. Many areas of the city - such as areas west of 5th Street, and South of Market have lots of homeless around and many people begging, so please be sensible when roaming the city and travelling between parties at night.
 
@@ -119,15 +113,16 @@ Uber-pool is a great way to get around, $7 for anywhere in the city if you are a
 
 ##Travel Checklist##
 <ul>
-<li><input type="checkbox" disabled> Passport</li>
-<li><input type="checkbox" disabled> Hotel Address</li>
-<li><input type="checkbox" disabled> US Dollars</li>
-<li><input type="checkbox" disabled> Laptop</li>
-<li><input type="checkbox" disabled> Mobile</li>
-<li><input type="checkbox" disabled> Test Device for installing new iOS on</li>
-<li><input type="checkbox" disabled> Charger & Cables</li>
-<li><input type="checkbox" disabled> Power Convertor / Adaptor</li>
-<li><input type="checkbox" disabled> Power Board (saves having multiple convertor plugs)</li>
-<li><input type="checkbox" disabled> Ear plugs (SF is super noisy)</li>
-<li><input type="checkbox" disabled> The oldest WWDC Jacket you own</li>
+<li>Passport</li>
+<li>Hotel Address</li>
+<li>US Dollars</li>
+<li>Laptop</li>
+<li>Mobile</li>
+<li>Test Device for installing new iOS on</li>
+<li>Charger & Cables</li>
+<li>US Plug adapters (2 flat pins). Ensure it includes the earth pin hole or you won't be able to plug your laptop into it! </li>
+<li>Power Board (saves having multiple convertor plugs)</li>
+<li>Ear plugs (SF is super noisy)</li>
+<li>The oldest WWDC Jacket you own</li>
+<li>A portable powerbank for your iPhone is handy to have too, you will drain your battery pretty quickly each day with taking photos, note taking, catching up on videos etc.. You don't want to get caught short.</li>
 </ul>
